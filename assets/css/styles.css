@@ -1,0 +1,28 @@
+@font-face {
+	font-family: "titre";
+	src: url('BUFFIED_.TTF');
+}
+@font-face {
+	font-family: "secondParagraphe";
+	src: url('Starjedi.ttf');
+}
+@font-face {
+	font-family: "premierParagraphe";
+	src: url('pricedown bl.ttf');
+}
+body
+{
+  font-size: 30px;
+}
+h1
+{
+  font-family: "titre";
+}
+#p1
+{
+  font-family: "premierParagraphe";
+}
+#p2
+{
+  font-family: "secondParagraphe";
+}
